@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ida-ltd/static/css/main.cb41215d.css",
+    "main.js": "/ida-ltd/static/js/main.c3285dba.js",
+    "static/js/453.d855a71b.chunk.js": "/ida-ltd/static/js/453.d855a71b.chunk.js",
+    "static/media/SCADA-Web-UI.png": "/ida-ltd/static/media/SCADA-Web-UI.f6e1ddbbd651d96c3485.png",
+    "static/media/hmi-steel-1.png": "/ida-ltd/static/media/hmi-steel-1.f1b36b3548d22156812f.png",
+    "static/media/plc.png": "/ida-ltd/static/media/plc.70d7f03d54f63fe5b35d.png",
+    "static/media/S1.jpg": "/ida-ltd/static/media/S1.f3d97e7a51a2cc48ef8f.jpg",
+    "static/media/S2.jpg": "/ida-ltd/static/media/S2.1afee69829e606876827.jpg",
+    "static/media/applic2.png": "/ida-ltd/static/media/applic2.3365cefd95818fda857d.png",
+    "static/media/IDA.png": "/ida-ltd/static/media/IDA.b6af45e2994a0887f971.png",
+    "static/media/404.png": "/ida-ltd/static/media/404.85de2657c75d379b553a.png",
+    "static/media/scada.png": "/ida-ltd/static/media/scada.1a8c51cac42d3097ccab.png",
+    "static/media/internet.png": "/ida-ltd/static/media/internet.a5d018267cfd17ee95bb.png",
+    "static/media/applic.png": "/ida-ltd/static/media/applic.f4c62e6722d92787ee9d.png",
+    "static/media/Font.woff": "/ida-ltd/static/media/Font.4c9c1544ba1cf1af2e21.woff",
+    "static/media/Dimond.png": "/ida-ltd/static/media/Dimond.1224bae72f4f6b5bf1d8.png",
+    "index.html": "/ida-ltd/index.html",
+    "main.cb41215d.css.map": "/ida-ltd/static/css/main.cb41215d.css.map",
+    "main.c3285dba.js.map": "/ida-ltd/static/js/main.c3285dba.js.map",
+    "453.d855a71b.chunk.js.map": "/ida-ltd/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb41215d.css",
+    "static/js/main.c3285dba.js"
+  ]
+}
